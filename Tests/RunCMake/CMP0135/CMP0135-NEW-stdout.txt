@@ -1,1 +1,0 @@
-Using extraction time for the timestamps
